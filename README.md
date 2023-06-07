@@ -1,2 +1,2 @@
 # first-design
-hello
+Hello, I'm kirie...
